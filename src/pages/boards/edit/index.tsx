@@ -1,8 +1,8 @@
 import React from 'react';
-import BoardWriteEmotion from 'src/components/units/board/write/emotion/BoardWriteEmotion';
+import BoardWrite from 'src/components/units/board/write/BoardWrite';
 
 const EditPage = () => {
-  return <BoardWriteEmotion />;
+  return <BoardWrite />;
 };
 
 export default EditPage;
