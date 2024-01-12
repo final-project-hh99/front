@@ -30,7 +30,7 @@ const CommunityEach = (props: any) => {
 
   const navigate = useNavigate();
 
-  const onClickGotoDetailPage = (id: any) => {
+  const onClickGotoDetailPage = (id: number) => {
     navigate(`/post/${id}`);
     setIsGoingToMain(false);
   };
