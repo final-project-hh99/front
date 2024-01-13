@@ -56,7 +56,7 @@ export const getPosts = async (target: IGetPosts) => {
     );
     return response.data;
   } catch (error) {
-    alert("잘못된 요청입니다.")
+    alert("잘못된 요청입니다")
   }
 };
 
