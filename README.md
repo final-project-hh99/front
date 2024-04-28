@@ -1,7 +1,7 @@
 # **🏡 Nine Cloud - FE**
 <img src= "https://hanghaelv4.s3.ap-northeast-2.amazonaws.com/image+(3).png" alt = award/>
 
-![나인 클라우드 브로셔](https://hanghaelv4.s3.ap-northeast-2.amazonaws.com/17%EA%B8%B0+1%EC%A1%B0+%EC%86%8C%EA%B0%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png)
+<img src= "https://github.com/final-project-hh99/front/assets/128838463/9c61ea97-1b7d-418b-a317-8ae3ec874e94"   alt = 브로셔/>
 
 > 나인 클라우드은 AI 감정 솔루션 그림일기 서비스 입니다.</br> 하루의 일과를 그림
 > 과 글로 정리하여 그날의 감정 이모티콘과 함께 기록해보세요.
@@ -49,7 +49,7 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
 
 |                                                   주철민                                                    |                                                   송지우                                                   |                                                   한덕용                                                   |
 | :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/profile.jpg" width="200" height="200"/> | <img src='/https://github.com/final-project-hh99/front/assets/128838463/1f99fab3-e02c-4e73-8f98-6ce0aae9b3b9' width="200" height="200"/> | <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/DYface.jpg" width="200" height="200"/> |
+| <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/profile.jpg" width="200" height="200"/> | <img src='https://github.com/final-project-hh99/front/assets/128838463/a076e0d2-56a3-4767-9773-b57441e46c7d' width="200" height="200"/> | <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/DYface.jpg" width="200" height="200"/> |
 |                                [cheolminJOO](https://github.com/cheolminJOO)                                |                                  [nsong113](https://github.com/nsong113)                                   |                                [HyperQuanx](https://github.com/HyperQuanx)                                 |
 
 </br>
@@ -107,9 +107,9 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
     <td><strong>그림 그리기</strong></td>
   </tr>
    <tr align="center">
-    <td><img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/gif_loginpage.gif" alt="소셜 로그인" style="height:500px"/></td>
-    <td><img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/gif_mainpage.gif" alt="메인" style="height:500px"/></td>
-    <td><img src="https://hanghaelv4.s3.ap-northeast-2.amazonaws.com/post.gif" alt="일기 추가하기" style="height:500px"/></td>
+    <td><img src="https://github.com/final-project-hh99/front/assets/128838463/fdfeb65f-2a27-4ba3-b996-d46afe118add" alt="소셜 로그인" style="height:500px"/></td>
+    <td><img src="https://github.com/final-project-hh99/front/assets/128838463/8dfd36e1-366a-4516-ac02-68bd5d5924c7" alt="메인" style="height:500px"/></td>
+    <td><img src="https://github.com/final-project-hh99/front/assets/128838463/7549be31-ab76-4b7d-87fe-bff1d49cc404" alt="일기 추가하기" style="height:500px"/></td>
   </tr>
 </table>
 
@@ -123,7 +123,7 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
   </tr>
    <tr align="center">
     <td><img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/gif_gptpage.gif" alt="AI" style="height:500px"/></td>
-    <td><img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/gif_communitypage.gif" alt="커뮤니티" style="height:500px"/></td>
+    <td><img src="https://github.com/final-project-hh99/front/assets/128838463/1eb6ecd8-74f1-416b-b0c8-da2cda2863ce" alt="커뮤니티" style=" height:500px"/></td>
     <td><img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/gif_chatting.gif" alt="채팅방" style="height:500px"/></td>
   </tr>
 </table>
@@ -132,7 +132,7 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
 
 ## **🗂️ 서비스 아키텍처**
 
-<img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/architecture.png" alt="서비스아키텍처" style="width:850"/>
+<img src="https://github.com/final-project-hh99/front/assets/128838463/2bc41251-833d-426b-af08-ed1aa5478d8c" alt="서비스아키텍처" style="width:850"/>
 
 </br>
 
