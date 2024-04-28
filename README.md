@@ -384,7 +384,7 @@ get 요청이 보내졌습니다.  <br>
 
 ## **🛠️ 최적화**
 
-<img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/result.jpg" width="500" height="280">
+<img src="https://github.com/final-project-hh99/front/assets/128838463/887c5020-6101-4d92-a3d3-d9eb62c9927b" width="500" height="280">
 <details>
 <summary> 1. 번들 크기 최적화 </summary>
 <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/process1.jpg" width="500" height="280">
@@ -396,7 +396,7 @@ react-icons는 종류별로 js파일을 하나씩 가지고 있어서, 하나의
 
 <details>
 <summary> 2. React.lazy를 이용하여 라우팅 code splitting /  webP확장자로 변경</summary>
-<img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/process2.jpg" width="500" height="280">
+<img src="https://github.com/final-project-hh99/front/assets/128838463/821465bf-d8dc-4298-9fa8-dbf5c2ad7d2a" width="500" height="280">
   <br>
 - React.lazy는 React에서 코드 스플리팅을 구현하기 위한 기능 중 하나입니다. 코드 스플리팅은 애플리케이션을 더 작은 청크(chunk)로 나누어 각 청크가 필요할 때만 로드되도록 하는 기술입니다. 이를 통해 초기 로딩 시간을 줄이고 성능을 최적화할 수 있습니다. 전체 애플리케이션을 로드하는 대신 현재 사용자가 방문한 페이지에 필요한 코드만 로드하는 것을 의미하여 더 빠른 로딩을 가능하게 합니다. 
 <br>  <br>
@@ -406,7 +406,7 @@ react-icons는 종류별로 js파일을 하나씩 가지고 있어서, 하나의
 
 <details>
 <summary> 3. Profiler를 활용해서 불필요한 렌더링 최적화 / compressor.js로 이미지 압축  </summary>
-<img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/process3.jpg" width="500" height="280">
+<img src="https://github.com/final-project-hh99/front/assets/128838463/8ba4691c-e871-4abd-8ca3-340e93326313" width="500" height="280">
   <br>
  - 프로파일러를 사용하여 컴포넌트 렌더링 최적화를 진행했습니다. 특히 글쓰는 곳이나 그림을 그리는 부분은 마우스를 움직이거나 글자를 입력할 때 마다 헤더나 모든 레이아웃이 리렌더링이 되는 것을 알 수 있었습니다. 따라서 React.memo를 사용하여 컴포넌트를 캐싱했습니다. 
 <br>  <br>
@@ -451,10 +451,8 @@ input range의 value값을 전역 상태 라이브러리인 recoil을 사용하�
   <br>  <br>
 - 해결 -
   <br>
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/kakaoshare.png" width="921" height="394">
+  <img src="https://github.com/final-project-hh99/front/assets/128838463/81d6c5fa-8fa2-4d0a-8273-cb420fd4da40" width="721" height="394">
   <br>
-  <br>
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/shareCode.png" width="783" height="987">
   <br>
   <br>
 Kakao develop에서 공유하기를 위한 세팅을 해주었고 공식문서에 따라 공유하기 기능을 만들었다.
