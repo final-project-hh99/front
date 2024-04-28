@@ -49,7 +49,7 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
 
 |                                                   주철민                                                    |                                                   송지우                                                   |                                                   한덕용                                                   |
 | :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/profile.jpg" width="200" height="200"/> | <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/JWface.jpg" width="200" height="200"/> | <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/DYface.jpg" width="200" height="200"/> |
+| <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/profile.jpg" width="200" height="200"/> | <img src='/jiwoo.png' width="200" height="200"/> | <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/DYface.jpg" width="200" height="200"/> |
 |                                [cheolminJOO](https://github.com/cheolminJOO)                                |                                  [nsong113](https://github.com/nsong113)                                   |                                [HyperQuanx](https://github.com/HyperQuanx)                                 |
 
 </br>

@@ -118,7 +118,7 @@ const Calender = () => {
       spread: 80,
       startVelocity: 50,
       ticks: 100,
-      origin: { x: 0.5, y: 0.8 },
+      origin: { x: 0, y: 1 },
       shapes: ['circle', 'circle', 'square'],
       gravity: 2,
     };
