@@ -336,7 +336,6 @@ get 요청이 보내졌습니다.  <br>
   <br>
 토큰이 만료되면 419번 에러코드가 뜨고 자동으로 /token으로 넘어가서 RefreshToken을 대조한 후 새로운 AccessToken을 발급해줌.
 <br>
-<img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/socketCode2.png" width="779" height="652">
 
 </details>
 
@@ -349,13 +348,14 @@ get 요청이 보내졌습니다.  <br>
   서버에서 지정해준 URL로 접근하지 못하는 현상.
   <br>
   <br>
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/socketError2.png" width="900" height="150">
+  <img src="https://github.com/final-project-hh99/front/assets/128838463/6b1d32ab-0573-49d4-ab45-c0a48f85b47b" width="900" height="150">
   <br>
   <br>
   서버에서 설정해준 URL로 접근하는 과정이 쉽지 않았습니다.
   <br>
   <br>
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/socketError3.png" width="772" height="170">
+  <img src="https://github.com/final-project-hh99/front/assets/128838463/8feb76b5-8bc7-4344-973d-ef821ee7e7fb" width="772" height="170">
+  <img src="https://github.com/final-project-hh99/front/assets/128838463/c9e76b44-a548-42d6-835c-cb47dc6044ff" width="772" height="170">
   <br>
   <br>
   분명 엔드포인트를 /community/chat/socket.io로 설정해놓았는데 막상 개발자 도구를 보면 설정한 엔드포인트로 접근하지 못했습니다.
@@ -364,7 +364,7 @@ get 요청이 보내졌습니다.  <br>
 - 해결을 위한 노력 -
   <br>
   <br>
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/image+(2).png" width="804" height="255">
+  <img src="https://github.com/final-project-hh99/front/assets/128838463/df637dd2-c2b2-4bbf-8c5b-4379fffa9994" width="804" height="255">
   <br>
   혹시 path 설정을 따로 해준다면 접근할 수 있을까 해서 기존에 하던 방식과 다르게 path 설정을 집어넣었습니다.
   <br>
@@ -373,7 +373,7 @@ get 요청이 보내졌습니다.  <br>
   <br>
   <br>
   결국 Server와 연결에 성공하였고 채팅 기능까지도 성공했습니다.
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/chattingsuccess.png" width="375" height="90">
+  <img src="https://github.com/final-project-hh99/front/assets/128838463/303171d9-d346-4b3c-8fec-b837f3f0223a" width="375" height="90">
 </details>
 
 ## **🛠️ 최적화**
