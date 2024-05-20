@@ -348,7 +348,7 @@ get 요청이 보내졌습니다.  <br>
   서버에서 지정해준 URL로 접근하지 못하는 현상.
   <br>
   <br>
-  <img src="https://github.com/final-project-hh99/front/assets/128838463/6b1d32ab-0573-49d4-ab45-c0a48f85b47b" width="900" height="150">
+  <img src="https://github.com/final-project-hh99/front/assets/128838463/6b1d32ab-0573-49d4-ab45-c0a48f85b47b" width="900" height="40">
   <br>
   <br>
   서버에서 설정해준 URL로 접근하는 과정이 쉽지 않았습니다.
@@ -372,8 +372,9 @@ get 요청이 보내졌습니다.  <br>
 - 결과 -
   <br>
   <br>
-  결국 Server와 연결에 성공하였고 채팅 기능까지도 성공했습니다.
   <img src="https://github.com/final-project-hh99/front/assets/128838463/92dc4443-ffff-4204-8e45-bfa78206b532" width="375" height="90">
+  <br>
+  결국 Server와 연결에 성공하였고 채팅 기능까지도 성공했습니다.
 </details>
 
 ## **🛠️ 최적화**
