@@ -373,7 +373,7 @@ get 요청이 보내졌습니다.  <br>
   <br>
   <br>
   결국 Server와 연결에 성공하였고 채팅 기능까지도 성공했습니다.
-  <img src="https://github.com/final-project-hh99/front/assets/128838463/303171d9-d346-4b3c-8fec-b837f3f0223a" width="375" height="90">
+  <img src="https://github.com/final-project-hh99/front/assets/128838463/92dc4443-ffff-4204-8e45-bfa78206b532" width="375" height="90">
 </details>
 
 ## **🛠️ 최적화**
