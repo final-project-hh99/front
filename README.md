@@ -1,5 +1,5 @@
 # **🏡 Nine Cloud - FE**
-<img src= "https://hanghaelv4.s3.ap-northeast-2.amazonaws.com/image+(3).png" alt = award/>
+<img src= "https://github.com/final-project-hh99/front/assets/128838463/d20a665d-8ae0-491e-b7c9-3eae03dde7ab" alt = award/>
 
 <img src= "https://github.com/final-project-hh99/front/assets/128838463/9c61ea97-1b7d-418b-a317-8ae3ec874e94"   alt = 브로셔/>
 
@@ -24,7 +24,7 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
     <td><strong>링크</strong></td>
   </tr>
   <tr align="center">
-    <td><img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/favicon.png" alt="클라우드나인 아이콘" style="width: 25px;"></td>
+    <td><img src="https://github.com/final-project-hh99/front/assets/128838463/1c4c52a9-e233-48d3-8392-d43a9b906cde" alt="클라우드나인 아이콘" style="width: 30px; height: 30px"></td>
     <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://nine-cloud9.vercel.app/">Nine Cloud</a></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="노션 아이콘" style="width: 20px;"></td>
 <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.notion.so/Nine-Cloud-AI-77cb46db65bd44cd92fe2b8a51902708">브로슈어</a></td>
@@ -49,7 +49,7 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
 
 |                                                   주철민                                                    |                                                   송지우                                                   |                                                   한덕용                                                   |
 | :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/profile.jpg" width="200" height="200"/> | <img src='https://github.com/final-project-hh99/front/assets/128838463/a076e0d2-56a3-4767-9773-b57441e46c7d' width="200" height="200"/> | <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/DYface.jpg" width="200" height="200"/> |
+| <img src="https://github.com/final-project-hh99/front/assets/128838463/ac604282-a4f6-4ac5-9b03-e0026cf3f963" width="200" height="200"/> | <img src='https://github.com/final-project-hh99/front/assets/128838463/a076e0d2-56a3-4767-9773-b57441e46c7d' width="200" height="200"/> | <img src="https://github.com/final-project-hh99/front/assets/128838463/8f4ce04c-370c-4c93-8157-9c8ff5d9d990" width="200" height="200"/> |
 |                                [cheolminJOO](https://github.com/cheolminJOO)                                |                                  [nsong113](https://github.com/nsong113)                                   |                                [HyperQuanx](https://github.com/HyperQuanx)                                 |
 
 </br>
@@ -122,9 +122,9 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
     <td><strong>채팅방</strong></td>
   </tr>
    <tr align="center">
-    <td><img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/gif_gptpage.gif" alt="AI" style="height:500px"/></td>
+    <td><img src="https://github.com/final-project-hh99/front/assets/128838463/075e73ae-e580-4bad-a89d-0f499b06fc4a" alt="AI" style="height:500px"/></td>
     <td><img src="https://github.com/final-project-hh99/front/assets/128838463/1eb6ecd8-74f1-416b-b0c8-da2cda2863ce" alt="커뮤니티" style=" height:500px"/></td>
-    <td><img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/gif_chatting.gif" alt="채팅방" style="height:500px"/></td>
+    <td><img src="https://github.com/final-project-hh99/front/assets/128838463/e128d55b-27bc-49c5-b26c-76967e401a1c" alt="채팅방" style="height:500px"/></td>
   </tr>
 </table>
 
@@ -249,9 +249,6 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
   <br>
 오늘이 2024년 1월 4일이라면 2023년의 모든 달력은 데이터가 다 나타나지 않고, 모든 달력이 4일, 즉 오늘 날짜까지만 데이터가 등장합니다.
   <br>
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/cm_troubleshooting1.png" width="270" height="436">
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/prevCode.png" width="474" height="242">
-  <br>
 - 해결을 위한 노력
   <br>
 조건부 렌더링을 어떻게 줘야 제가 원하는 대로 구현이 될까 손코딩으로 메모장에 여러가지 경우의 수를 적어놓고 정리한 다음, 하나하나 적용했습니다.
@@ -260,9 +257,6 @@ cloud nine (행복의 절정)이라는 속담에서 착안했습니다. 행복�
   <br>
 오늘 일,월,년도의 데이터와, 달력이 바뀔 때 일,월,년도의 데이터를 변수로 정리하고 
 이 변수들을 이전 달, 이번 달,이후 달들에 대해 구분을 할 수 있는 const에 대입시켜 만들고, 이들을 조건부 렌더링에 적용해 해결했습니다.
-  <br>
-    <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/cm_result.png" width="270" height="435">
-  <img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/nextCode.png" width="483" height="416">
 </details>
 
 <details>
@@ -387,7 +381,7 @@ get 요청이 보내졌습니다.  <br>
 <img src="https://github.com/final-project-hh99/front/assets/128838463/887c5020-6101-4d92-a3d3-d9eb62c9927b" width="500" height="280">
 <details>
 <summary> 1. 번들 크기 최적화 </summary>
-<img src="https://lv4lv4task.s3.ap-northeast-2.amazonaws.com/readme/process1.jpg" width="500" height="280">
+<img src="https://github.com/final-project-hh99/front/assets/128838463/0a94b617-0909-4578-80ec-3c66f29155ad" width="500" height="280">
   <br>
 react-icons는 종류별로 js파일을 하나씩 가지고 있어서, 하나의 아이콘을 실행하면 그 아이콘이 속한 js 파일이 실행돼서 관련 없는 불필요한 파일들도 함께 빌딩 돼 번들 크기가 커집니다.
 그래서  @react-icons/all-files를 설치했고, 이 라이브러리는 아이콘마다 js 파일을 가지고 있어서 빌딩 시 필요한 파일만 실행 돼 번들 크기 최적화를 시킬 수 있었습니다.
